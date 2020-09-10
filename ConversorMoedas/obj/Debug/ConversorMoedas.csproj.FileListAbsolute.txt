@@ -1,0 +1,20 @@
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\bin\Debug\ConversorMoedas.exe.config
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\bin\Debug\ConversorMoedas.exe
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\bin\Debug\ConversorMoedas.pdb
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.csprojAssemblyReference.cache
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.Form1.resources
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.Properties.Resources.resources
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.csproj.GenerateResource.cache
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.csproj.CoreCompileInputs.cache
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.exe
+C:\Users\marcos.rosa\source\repos\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.pdb
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\bin\Debug\ConversorMoedas.exe.config
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\bin\Debug\ConversorMoedas.exe
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\bin\Debug\ConversorMoedas.pdb
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.csprojAssemblyReference.cache
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.frmConversorMoedas.resources
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.Properties.Resources.resources
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.csproj.GenerateResource.cache
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.csproj.CoreCompileInputs.cache
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.exe
+D:\Pessoal\Ensino\Univali\ADS\Programming and Data Persistence\Forum Tematico\1 - 11082020\Atividade\ConversorMoedas\ConversorMoedas\obj\Debug\ConversorMoedas.pdb
